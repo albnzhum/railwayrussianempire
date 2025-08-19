@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
-using R3;
-using UnityEngine.Serialization;
+
 
 namespace Railway.Shop.Data
 {

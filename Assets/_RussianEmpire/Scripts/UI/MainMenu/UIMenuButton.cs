@@ -2,9 +2,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 using DG.Tweening;
-using R3;
 using TMPro;
-using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 namespace Railway.UI.Menu

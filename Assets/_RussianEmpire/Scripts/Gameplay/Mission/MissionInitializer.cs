@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using UnityEngine;
 using R3;
 using Railway.Gameplay.UI;
+using UnityEngine;
 
 namespace Railway.Components
 {
@@ -25,7 +25,7 @@ namespace Railway.Components
             set => _currentResources = value;
         }
 
-        public SerializableReactiveProperty<float> GetCurrentReactiveProperty(ResourceType resourceType)
+        public ReactiveProperty<float> GetCurrentReactiveProperty(ResourceType resourceType)
         {
             switch (resourceType)
             {
@@ -47,7 +47,7 @@ namespace Railway.Components
             }
         }
 
-        public SerializableReactiveProperty<float> GetAddedReactiveProperty(ResourceType resourceType)
+        public ReactiveProperty<float> GetAddedReactiveProperty(ResourceType resourceType)
         {
             switch (resourceType)
             {
@@ -93,15 +93,14 @@ namespace Railway.Components
         [System.Serializable]
         public class ResourceStat
         {
-            public SerializableReactiveProperty<float> CurrentValue;
-            public SerializableReactiveProperty<float> AddedValue;
+            public ReactiveProperty<float> CurrentValue;
+            public ReactiveProperty<float> AddedValue;
 
-            public ResourceStat(SerializableReactiveProperty<float> currentValue,
-                SerializableReactiveProperty<float> addedValue = null)
+            public ResourceStat(ReactiveProperty<float> currentValue,
+                ReactiveProperty<float> addedValue = null)
             {
                 this.CurrentValue = currentValue;
-                this.AddedValue = addedValue ?? new SerializableReactiveProperty<float>(0f);
-                ;
+                this.AddedValue = addedValue ?? new ReactiveProperty<float>(0f);
             }
         }
     }

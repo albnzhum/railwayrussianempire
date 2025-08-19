@@ -1,8 +1,8 @@
 using System;
+using R3;
 using Railway.Components;
 using Railway.Idents.UI;
 using UnityEngine;
-using R3;
 using TMPro;
 
 namespace Railway.Gameplay.UI
@@ -19,10 +19,11 @@ namespace Railway.Gameplay.UI
 
     public class UIResources : MonoBehaviour
     {
-        [Header("UI Text")] [SerializeField]
+        [Header("UI Text")] 
+        [SerializeField] 
         private TMP_Text[] _currentResourceTexts = new TMP_Text[Enum.GetValues(typeof(ResourceType)).Length];
 
-        [SerializeField]
+        [SerializeField] 
         private TMP_Text[] _addedResourceTexts = new TMP_Text[Enum.GetValues(typeof(ResourceType)).Length];
 
         [SerializeField] private MissionInitializer mission;

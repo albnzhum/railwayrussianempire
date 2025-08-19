@@ -36,9 +36,10 @@ namespace Railway.UI
 
     public enum SettingsType
     {
-        Audio,
+        General,
+        Gameplay,
         Graphics,
-        Controls
+        Audio,
     }
 
     public class UISettingsController : MonoBehaviour

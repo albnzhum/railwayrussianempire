@@ -11,8 +11,8 @@ namespace Railway.SceneManagement
         public enum GameSceneType
         {
             //Playable scenes
-            Location, //SceneSelector tool will also load PersistentManagers and Gameplay
-            Menu, //SceneSelector tool will also load Gameplay
+            Location, 
+            Menu, 
 
             //Special scenes
             Initialisation,
