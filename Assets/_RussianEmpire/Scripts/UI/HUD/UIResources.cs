@@ -20,8 +20,7 @@ namespace Railway.Gameplay.UI
     public class UIResources : MonoBehaviour
     {
         [Header("UI Text")] 
-        [SerializeField] 
-        private TMP_Text[] _currentResourceTexts = new TMP_Text[Enum.GetValues(typeof(ResourceType)).Length];
+        [SerializeField] private TMP_Text[] _currentResourceTexts = new TMP_Text[Enum.GetValues(typeof(ResourceType)).Length];
 
         [SerializeField] 
         private TMP_Text[] _addedResourceTexts = new TMP_Text[Enum.GetValues(typeof(ResourceType)).Length];
