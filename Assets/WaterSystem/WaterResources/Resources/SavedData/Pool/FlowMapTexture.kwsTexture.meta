@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc7209f28ef9b2e4baa8d98fb392134b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:Assets/KriptoFX/WaterSystem/WaterResources/Resources/SavedData/Pool/FlowMapTexture.kwsTexture.meta
+  script: {fileID: 11500000, guid: 4490d0246ff5a4846bea23d5da9372ab, type: 3}
+=======
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+>>>>>>> Stashed changes:Assets/UnityPlugins/Samples/Universal RP/15.0.7/URP Package Samples/Decals/BlobShadow/BlobShadow_Graph.shadergraph.meta
+=======
+  script: {fileID: 11500000, guid: 4490d0246ff5a4846bea23d5da9372ab, type: 3}
+>>>>>>> Stashed changes

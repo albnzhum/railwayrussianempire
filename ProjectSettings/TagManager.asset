@@ -2,9 +2,19 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
+  serializedVersion: 2
   tags:
-  - CityGen3D
+  - Conductor
+  - Freezable
+  - PPaint
+  - Tornado
+  - Grass
+  - Flamer
+  - Flammable
+  - SkyMasterTree
+  - water
+  - Butter
+  - NoForcePDM
   layers:
   - Default
   - TransparentFX
@@ -12,35 +22,33 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
   - PostProcessing
+  - Environment
   - 
   - 
   - 
   - 
   - 
   - 
-  - Landscape
-  - Map Surface
-  - Map Road
-  - Map Building
-  - Map Tree
-  - Map Entity
-  - Map Feature
   - 
   - 
   - 
   - 
   - 
-  - Feature
-  - Entity
-  - Building
-  - Highway
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
     locked: 0
-  m_RenderingLayers:
-  - Default
