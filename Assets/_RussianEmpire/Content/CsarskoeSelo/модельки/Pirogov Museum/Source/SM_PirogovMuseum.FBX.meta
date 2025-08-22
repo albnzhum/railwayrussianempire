@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: bb87e3e81728ca4479dca5e5bec74a7d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_central_facade
+    second: {fileID: 2100000, guid: c08fca47039bf6947a1ea0ea59e521c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_deaf
+    second: {fileID: 2100000, guid: e3e57d8ad15d4814898d51f8c14c18e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_door
+    second: {fileID: 2100000, guid: eb05fee6bbb334c44a3062ee03042dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_left
+    second: {fileID: 2100000, guid: 02d7661794f66404eac49b540b798045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_pilaster
+    second: {fileID: 2100000, guid: ed4739244e44cb84bb8ac7881ce502c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_side_facade
+    second: {fileID: 2100000, guid: 78493716bb4c7a8429c8d5a80302c481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_tab
+    second: {fileID: 2100000, guid: a8b9190cf0ad58a4f902cd339a04ae30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_upper
+    second: {fileID: 2100000, guid: 7a3c5729643f8f14da7488a6e5aa2df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balustrade_1
+    second: {fileID: 2100000, guid: acab953ea080264409ad6b60253563e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balustrade_2
+    second: {fileID: 2100000, guid: 3c1bd6fffa78be24fa0ca9591463cb3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balustrade_3
+    second: {fileID: 2100000, guid: 64422434029011a4592fbae99e35cff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balustrade_4
+    second: {fileID: 2100000, guid: 4c263b4a26809db45ba1f1f51471cb81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balustrade_5
+    second: {fileID: 2100000, guid: 8c656a599196a9e4b84654f31609e982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balustrade_corner
+    second: {fileID: 2100000, guid: acab5f43fa752a04b93c9fbc6c433328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Central_front_facade
+    second: {fileID: 2100000, guid: c422e7cabcdab7a45941eaf9c7d0e71d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Central_front_tab
+    second: {fileID: 2100000, guid: a3c2f5e277f352844ba5560451a364c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Central_pilaster_side
+    second: {fileID: 2100000, guid: e78828321203f19419b89a73c81c72a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corner
+    second: {fileID: 2100000, guid: daa194d848dfd96489cded0e3e25e11f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corner_tab
+    second: {fileID: 2100000, guid: 8fea4d16756e81e4082b9e4055af36f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corner_tab_2
+    second: {fileID: 2100000, guid: c2a659cf339f05e40bbbf562f2943c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_1
+    second: {fileID: 2100000, guid: 1a93f6a3b6650a04daf77912d980ad72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forgotten_entablature
+    second: {fileID: 2100000, guid: d50ee2d845ef1c84c8b11b4f928bf18f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_side_entablature
+    second: {fileID: 2100000, guid: 5dc17c80ff301644c825eb1d41153fa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_side_facade
+    second: {fileID: 2100000, guid: ab488adb5a47e5844941c1652e3cfa7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_upper_facade
+    second: {fileID: 2100000, guid: 41bae5440c8892047946ab0817093416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_back_corner
+    second: {fileID: 2100000, guid: dc573d9f915ccbc4189151a9a1342603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_tab
+    second: {fileID: 2100000, guid: 55e181a8c87d0064e8df80c554bc7db1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_entrance_mat
+    second: {fileID: 2100000, guid: ce7885853199e824ca454e2a9bffb39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #140
+    second: {fileID: 2100000, guid: 8ea21c0402dfac34990c37b935e77bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #141
+    second: {fileID: 2100000, guid: 471235ffe43ac0847a28778d2c565f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #142
+    second: {fileID: 2100000, guid: 10285a0c5fdaab94e9264378f6ae6cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #143
+    second: {fileID: 2100000, guid: 418a3ecf135d1cc44984f5aa696c607b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #144
+    second: {fileID: 2100000, guid: 6964b5323be41e641b441d3db89949c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #63
+    second: {fileID: 2100000, guid: 605bb3939c57045429968eafc165d6ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #85
+    second: {fileID: 2100000, guid: 8b3329fb2fd306f41b73df1cf2e5f1fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__29
+    second: {fileID: 2100000, guid: 35498a108dc20c147a7676da71dcf524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilaster_side
+    second: {fileID: 2100000, guid: dc1cd894ae645d744a6ff8e92ac54b18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilaster_side_2
+    second: {fileID: 2100000, guid: 599fda865c75d874e99cd4a827ef7a64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_back_entablature
+    second: {fileID: 2100000, guid: 62436c971806b7a4680007a67cc737fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_facade
+    second: {fileID: 2100000, guid: d219726adf09f1b4598310b9d80201da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_inner_facade
+    second: {fileID: 2100000, guid: 73b0ef8791b5f0247a180c7fa111835a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_tab
+    second: {fileID: 2100000, guid: 0a636fd759d69da43b7cf7abe124bd50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: f774624a453ce0547b4ac01d29b4c566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side_upper_facade
+    second: {fileID: 2100000, guid: eef5eb67dd9901041a9da74ed90e3f85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_facade
+    second: {fileID: 2100000, guid: 077f9d46e5e503647b6b28ff0f300a19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tube_1
+    second: {fileID: 2100000, guid: 6957a0220ba61cc4094fd0a7b09f8514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tube_2
+    second: {fileID: 2100000, guid: 9c175e382e341b749b5187af4bf9cea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Upper_balustrade
+    second: {fileID: 2100000, guid: 98bee473d345b8542b64c9e5de0bfd21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Upper_column
+    second: {fileID: 2100000, guid: 684761501e4a61645929e37a71da19aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Upper_roof
+    second: {fileID: 2100000, guid: d4ff11f3b6477e34bbe5ea0f9d9e9b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wide_pilaster_side
+    second: {fileID: 2100000, guid: 18934fc886796e44f951a9ce7d977152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows
+    second: {fileID: 2100000, guid: ef31b8327f15de74bae8c32796ce6b5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_184155229
+    second: {fileID: 2100000, guid: 37ad8c48c0d3cb048ab98901bc9a7583, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
